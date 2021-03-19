@@ -1,0 +1,1 @@
+135 comparisons made to create the tree.373 comparisons made by the find method.
